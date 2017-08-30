@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "0.0.1",
+  "description": "create and show flashcards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcthomas00/Flashcard-Generator.git"
+  },
+  "author": "Jacob Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcthomas00/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/jcthomas00/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
